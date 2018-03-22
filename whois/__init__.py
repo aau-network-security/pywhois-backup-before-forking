@@ -33,11 +33,12 @@ def whois(url, command=False):
     if command:
         # try native whois command
         r = subprocess.Popen(['whois', domain], stdout=subprocess.PIPE)
-        text = r.stdout.read().decode()
+        text = r.stdout.read()
     else:
         # try builtin client
         nic_client = NICClient()
         text = nic_client.whois_lookup(None, domain.encode('idna'), 0)
+        text = text.encode('ASCII') # TODO: Make nic_client return byte array and remove this line
     return WhoisEntry.load(domain, text)
 
 
