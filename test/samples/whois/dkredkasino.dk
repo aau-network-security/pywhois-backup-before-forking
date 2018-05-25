@@ -1,0 +1,53 @@
+# Hello 178.157.251.231. Your session has been logged.
+#
+# Copyright (c) 2002 - 2018 by DK Hostmaster A/S
+#
+# Version: 2.0.2
+#
+# The data in the DK Whois database is provided by DK Hostmaster A/S
+# for information purposes only, and to assist persons in obtaining
+# information about or related to a domain name registration record.
+# We do not guarantee its accuracy. We will reserve the right to remove
+# access for entities abusing the data, without notice.
+# 
+# Any use of this material to target advertising or similar activities
+# are explicitly forbidden and will be prosecuted. DK Hostmaster A/S
+# requests to be notified of any such activities or suspicions thereof.
+
+Domain:               dkredkasino.dk
+DNS:                  dkredkasino.dk
+Registered:           2011-11-18
+Expires:              2018-11-30
+Registration period:  1 year
+VID:                  no
+Dnssec:               Unsigned delegation
+Status:               Active
+
+Registrant
+Handle:               TA11507-DK
+Name:                 Tailby Administrator
+Address:              1934 Driftwood Bay
+Postalcode:           1111
+City:                 Belize City
+Country:              BZ
+Phone:                +35627382527
+
+Administrator
+Handle:               LL4230-DK
+Name:                 Lexsynergy Limited
+Address:              130 Hampstead House
+Address:              176 Finchley Road
+Address:              London
+Postalcode:           NW36BT
+City:                 London
+Country:              GB
+Phone:                +442081331319
+
+Nameservers
+Hostname:             ns1.lexsynergy.net
+Handle:               L5713-DK
+Hostname:             ns2.lexsynergy.us
+Handle:               L5713-DK
+Hostname:             ns3.lexsynergy.info
+Handle:               L5713-DK
+

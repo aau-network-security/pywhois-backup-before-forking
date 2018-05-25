@@ -1,0 +1,30 @@
+{
+    "domain_name": "dkredkasino.dk",
+    "creation_date": "2011-11-18 00:00:00",
+    "expiration_date": "2018-11-30 00:00:00",
+    "registration_period": "1 year",
+    "vid": "no",
+    "dnssec": "Unsigned delegation",
+    "status": "Active",
+    "registrant_handle": "TA11507-DK",
+    "registrant_name": "Tailby Administrator",
+    "registrant_address": "1934 Driftwood Bay",
+    "registrant_postalcode": "1111",
+    "registrant_city": "Belize City",
+    "registrant_country": "BZ",
+    "administrator_handle": "LL4230-DK",
+    "administrator_name": "Lexsynergy Limited",
+    "administrator_address": [
+        "130 Hampstead House",
+        "176 Finchley Road",
+        "London"
+    ],
+    "administrator_postalcode": "NW36BT",
+    "administrator_city": "London",
+    "administrator_country": "GB",
+    "nameservers": {
+        "ns1.lexsynergy.net": "L5713-DK",
+        "ns2.lexsynergy.us": "L5713-DK",
+        "ns3.lexsynergy.info": "L5713-DK"
+    }
+}
